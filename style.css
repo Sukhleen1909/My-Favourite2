@@ -1,0 +1,38 @@
+body {
+  text-align:center;
+  background:linear-gradient(#00E5FF 0%,#AA00FF 100%);
+  background-repeat:no repeat;
+}
+img {
+  border-radius:50%;
+  width:50px;
+}
+h1 {
+  text-shadow: 2px 2px #3E2723
+    font-size:20px;
+}
+p{
+  font-size:15px;
+  color:#E040FB;
+  text-align:center;
+  text-width:30px;
+}
+.line {
+  height:6px;
+  background-color:black;
+  width:70px;
+  margin:8px auto;
+}
+.menu {
+  list-style:none;
+  font-family:cursive;
+  float:right , horizontal;
+  top:10px;
+  right:30px;
+  cursor:pointer;
+  color:black;
+  
+}
+#myname {
+  font-family: 'Roboto' , cursive;
+}
